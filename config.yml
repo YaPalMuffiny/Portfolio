@@ -13,7 +13,7 @@ lang: "en"
 plugins:
   # Automatically fetch Medium follower count
   - MediumFollowersCountPlugin:
-      username: zhgchgli
+      username: yapalmuffiny
   # Automatically fetch Github repo star count
   - GithubRepoStarsCountPlugin:
       - ZhgChgLi/ZMarkupParser
